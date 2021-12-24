@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/nolicorp/static/css/main.83472cf4.chunk.css",
+    "main.js": "/nolicorp/static/js/main.a7bdc8e0.chunk.js",
+    "main.js.map": "/nolicorp/static/js/main.a7bdc8e0.chunk.js.map",
+    "runtime-main.js": "/nolicorp/static/js/runtime-main.80ec09c8.js",
+    "runtime-main.js.map": "/nolicorp/static/js/runtime-main.80ec09c8.js.map",
+    "static/js/2.86873c9f.chunk.js": "/nolicorp/static/js/2.86873c9f.chunk.js",
+    "static/js/2.86873c9f.chunk.js.map": "/nolicorp/static/js/2.86873c9f.chunk.js.map",
+    "index.html": "/nolicorp/index.html",
+    "static/css/main.83472cf4.chunk.css.map": "/nolicorp/static/css/main.83472cf4.chunk.css.map",
+    "static/js/2.86873c9f.chunk.js.LICENSE.txt": "/nolicorp/static/js/2.86873c9f.chunk.js.LICENSE.txt",
+    "static/media/MainSlideShow.css": "/nolicorp/static/media/5.6d706f0a.jpg",
+    "static/media/10.d88f966f.jpg": "/nolicorp/static/media/10.d88f966f.jpg",
+    "static/media/11.29fa96cd.jpg": "/nolicorp/static/media/11.29fa96cd.jpg",
+    "static/media/Services.css": "/nolicorp/static/media/13.a8ac5ace.jpg",
+    "static/media/14.492a1cdd.jpg": "/nolicorp/static/media/14.492a1cdd.jpg",
+    "static/media/15.884197db.jpg": "/nolicorp/static/media/15.884197db.jpg",
+    "static/media/16.010f8fdd.jpg": "/nolicorp/static/media/16.010f8fdd.jpg",
+    "static/media/17.5c1c67fe.jpg": "/nolicorp/static/media/17.5c1c67fe.jpg",
+    "static/media/18.8bef5167.jpg": "/nolicorp/static/media/18.8bef5167.jpg",
+    "static/media/Milestone.css": "/nolicorp/static/media/19.d541e4f3.jpg",
+    "static/media/2.c63e525a.jpg": "/nolicorp/static/media/2.c63e525a.jpg",
+    "static/media/ServiceInfo.css": "/nolicorp/static/media/21.d779b06e.jpg",
+    "static/media/NewsLetter.css": "/nolicorp/static/media/6.8a36b57e.jpg",
+    "static/media/add.6727455e.png": "/nolicorp/static/media/add.6727455e.png",
+    "static/media/add2.c45b063f.png": "/nolicorp/static/media/add2.c45b063f.png",
+    "static/media/style.css": "/nolicorp/static/media/icomoon.c04ea144.eot"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.80ec09c8.js",
+    "static/js/2.86873c9f.chunk.js",
+    "static/css/main.83472cf4.chunk.css",
+    "static/js/main.a7bdc8e0.chunk.js"
+  ]
+}
